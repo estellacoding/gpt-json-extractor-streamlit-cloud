@@ -9,7 +9,7 @@ OpenAI API 在 2024/8 推出支援 [JSON 格式的輸出](https://openai.com/ind
 - **資料保存**：成功提取的資料會以 JSON 格式保存至本地檔案。
 
 # 使用方法
-進入 [JSON Extractor]()。
+進入 [JSON Extractor Using GPT](https://gpt-json-extractor.streamlit.app/)。
 
 ## 輸入 OPENAI API 金鑰
 輸入你的 OpenAI API 金鑰，點擊鍵盤「Enter」，即可開始使用。
