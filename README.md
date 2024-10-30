@@ -12,10 +12,10 @@ OpenAI API 在 2024/8 推出支援 [JSON 格式的輸出](https://openai.com/ind
 進入 [JSON Extractor Using GPT](https://gpt-json-extractor.streamlit.app/)。
 
 ## 輸入 OPENAI API 金鑰
-輸入你的 OpenAI API 金鑰，點擊鍵盤「Enter」，即可開始使用。
+左方工具列輸入你的 OpenAI API 金鑰，點擊鍵盤「Enter」，即可開始使用。
 
 ## 輸入資料
-選擇「JSON Schema」或「Function Calling」模式。在輸入框中輸入資料(參考格式如下)，接著點擊「Submit」按鈕，即可查看所提取的資料。
+左方工具列選擇方法，可選擇「JSON Schema」或「Function Calling」。在輸入框中輸入資料(參考格式如下)，接著點擊「Submit」按鈕，即可查看所提取的資料。
 ```
 我的名字是Stella，請用 stelladai1028@gmail.com 聯絡我，電話是0988999999
 ```
