@@ -4,8 +4,6 @@ from openai import OpenAI, OpenAIError
 from pydantic import ValidationError
 from models import UserData
 from typing import Optional, Union
-import os
-from dotenv import load_dotenv
 import json
 from validate_format import validate_email_format
 
